@@ -1,0 +1,56 @@
+* {
+  margin: 0px;
+  border: 0px;
+  box-sizing: border-box;
+  
+}
+
+a input {
+  height: 40px;
+  width: 80px;  
+  
+}
+
+#Div-Botões {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  gap: 5px;
+  width: 50%;
+  margin: 0 auto;
+  margin-right: 5rem;
+}
+
+header {
+  padding-top: 2.6rem;
+  position: sticky;
+  height: 13vh;
+  background-color: aquamarine;
+  
+}
+body {
+    text-align: justify;
+    font-size:1.4rem;
+}
+
+#content {
+  height: 87vh;
+  background-image: url("https://mercadoeconsumo.com.br/wp-content/uploads/2019/09/Starbucks-diminui-proje%C3%A7%C3%B5es-de-crescimento-para-2020.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+
+main {
+    margin-top: 30px;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 80px;
+    margin-right: 80px;
+    gap: 30px;
+}
+
+
+/* 
+autorizacao@novafriburgo.unimed.com.br
+33547920210922221142 */
